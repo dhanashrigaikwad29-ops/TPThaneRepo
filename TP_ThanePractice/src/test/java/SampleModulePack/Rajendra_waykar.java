@@ -9,6 +9,8 @@ public class Rajendra_waykar {
 		System.out.println("git bash");
 		System.out.println("TL update2");
 		System.out.println("TL update");
+		System.out.println("self practice");
+		
 	}
 
 }
