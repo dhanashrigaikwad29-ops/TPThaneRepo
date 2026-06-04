@@ -1,13 +1,10 @@
 package SampleModulePack;
 
-public class SujithTest {
-	
+public class Dhanashri {
 	public static void main(String[] args) {
-		System.out.println("First Test");
-
-		System.out.println("2nd update");
-
+		System.out.println("Hello world");
 		System.out.println("TL update");
+
 	}
 
 }
