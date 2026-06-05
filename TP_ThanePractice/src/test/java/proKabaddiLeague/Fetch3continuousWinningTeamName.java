@@ -24,8 +24,6 @@ public class Fetch3continuousWinningTeamName {
 	public void Fetch3continuousWinningTeamName() throws Throwable {
 		WebDriver driver = new ChromeDriver();
 
-		WebDriverUtility wdu = new WebDriverUtility();
-
 		driver.manage().window().maximize();
 
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
