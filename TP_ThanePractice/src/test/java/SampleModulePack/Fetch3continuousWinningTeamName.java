@@ -1,5 +1,4 @@
-package proKabaddiLeague;
-
+package SampleModulePack;
 import java.time.Duration;
 import java.util.List;
 
