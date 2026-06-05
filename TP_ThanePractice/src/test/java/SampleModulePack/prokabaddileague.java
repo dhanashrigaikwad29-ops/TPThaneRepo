@@ -27,6 +27,7 @@ public class prokabaddileague {
 			System.out.println(name.getText());
 		}
 		
+		System.out.println("pro kabaddi print");
 		
 	}
 }
