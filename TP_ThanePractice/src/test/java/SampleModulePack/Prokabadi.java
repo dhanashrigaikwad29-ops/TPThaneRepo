@@ -30,7 +30,10 @@ public class Prokabadi {
 		
 		for (WebElement win : wins) {
 			System.out.println(win.getText());	
+			
 		}
+		
+		System.out.println("Task completed");
 		
 		
 		}
