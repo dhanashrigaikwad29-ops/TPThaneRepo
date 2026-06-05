@@ -22,6 +22,7 @@ public class prokabaddileague {
 		List<WebElement> names = driver.findElements(By.xpath(
 				"//ul[@class=\"form-listing\" and contains(.,'WWW')]/ancestor::div[@class='row-head']/descendant::div[@class='team-name']"));
 
+		
 		for (WebElement name : names) {
 			System.out.println(name.getText());
 		}
