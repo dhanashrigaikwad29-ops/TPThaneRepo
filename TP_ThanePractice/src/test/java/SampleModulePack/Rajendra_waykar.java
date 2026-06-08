@@ -12,6 +12,8 @@ public class Rajendra_waykar {
 		
 		System.out.println("self practice");
 		
+		System.out.println("new update");
+		
 	}
 
 }
