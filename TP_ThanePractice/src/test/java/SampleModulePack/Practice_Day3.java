@@ -10,6 +10,8 @@ public void practice() {
 		
 		System.out.println("New Class Created");
 		
+		System.out.println("New Statement Added");
+		
 	}
 
 }
