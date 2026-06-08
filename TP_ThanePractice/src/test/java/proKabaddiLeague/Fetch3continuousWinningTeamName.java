@@ -29,5 +29,6 @@ public class Fetch3continuousWinningTeamName {
 		System.out.println(team.getText());
 		System.out.println(";;;;;;;;;;");
 		System.out.println("++++++++++++++");
+		System.out.println("=-=-=-=-==-=");
 	}
 }
