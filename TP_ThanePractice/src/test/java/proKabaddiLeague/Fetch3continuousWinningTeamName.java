@@ -28,5 +28,6 @@ public class Fetch3continuousWinningTeamName {
 		for(WebElement team : teamName)
 		System.out.println(team.getText());
 		System.out.println(";;;;;;;;;;");
+		System.out.println("++++++++++++++");
 	}
 }
