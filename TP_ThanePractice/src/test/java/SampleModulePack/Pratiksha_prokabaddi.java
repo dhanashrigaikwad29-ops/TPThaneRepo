@@ -30,7 +30,7 @@ public class Pratiksha_prokabaddi {
 	    	   System.out.println("prokabaddi2");
 	    	   
 	       }
-	       
+	       System.out.println("prokabaddi  is application");
 	       
 	       
 	}
